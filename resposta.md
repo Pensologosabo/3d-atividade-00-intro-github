@@ -1,11 +1,36 @@
 # Respostas
 
 1. Informe abaixo seu nome completo:
-R- 
+R- Gabriel de Lima Donato
 
 2. Converta os números abaixo para a letra correspondente do alfabeto e diga qual o código (00 representa espaço):
 "2-1-11-21-7-1-14-00-5-00-18-21-9-13"
-R- 
-
+R- BAKUGAN E RUIM
+1-A
+2-B
+3-C
+4-D
+5-E
+6-F
+7-G
+8-H
+9-I
+10-J
+11-K
+12-L
+13-M
+14-N
+15-O
+16-P
+17-Q
+18-R
+19-S
+20-T
+21-U
+22-V
+23-W
+24-X
+25-Y
+26-Z
 3. Qual palavra em Javascript é usada para criar uma função?
-R- 
+R- function
